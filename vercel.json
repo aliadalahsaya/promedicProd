@@ -4,7 +4,12 @@
     "functions": {
         "api/index.php": { "runtime": "vercel-php@0.6.0" }
     },
+    "outputDirectory": "public",
     "routes": [
+        {
+            "src": "/build/(.*)",
+            "dest": "/build/$1"
+        },
         {
             "src": "/(.*)",
             "dest": "/api/index.php"
@@ -14,7 +19,6 @@
         "APP_ENV": "production",
         "APP_DEBUG": "true",
         "APP_URL": "https://promedic-prod.vercel.app/",
-        "APP_KEY": "base64:h2IdQ8behq/vaDyxuTWBk7xsSCMkC1glT/6FoMZeiBk=",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
@@ -25,6 +29,10 @@
 
         "CACHE_DRIVER": "array",
         "LOG_CHANNEL": "stderr",
-        "SESSION_DRIVER": "cookie"
+        "SESSION_DRIVER": "cookie",
+
+        "DB_CONNECTION": "mysql",
+        "DB_PORT": "3306",
+        "MYSQL_ATTR_SSL_CA": "/etc/pki/tls/certs/ca-bundle.crt"
     }
 }
