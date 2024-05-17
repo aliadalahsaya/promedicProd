@@ -17,7 +17,7 @@ export default defineConfig({
                 'public/css/responsive.css',
                 'public/css/slicknav.min.css',
                 'public/css/style.css',
-                // 'https://fonts.googleapis.com/css?family=Poppins:200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap',
+                'https://fonts.googleapis.com/css?family=Poppins:200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap',
                 
                 //End Of CSS
 
@@ -35,7 +35,7 @@ export default defineConfig({
                 'public/js/jquery.counterup.min.js',
                 'public/js/steller.js',
                 'public/js/jquery.magnific-popup.min.js',
-                // 'public/http://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js',
+                'public/http://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js',
                 'public/js/bootstrap.min.js',
                 'public/js/main.js',
             ],
