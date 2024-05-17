@@ -99,7 +99,7 @@
                         <div class="col-lg-3 col-md-3 col-12">
                             <!-- Start Logo -->
                             <div class="logo">
-                                <a href="index.html"><img src="img/logo.png" alt="#"></a>
+                                <a href="index.html"><img src="public/img/logo.png" alt="#"></a>
                             </div>
                             <!-- End Logo -->
                             <!-- Mobile Nav -->
@@ -137,7 +137,7 @@
     <section class="slider">
         <div class="hero-slider">
             <!-- Start Single Slider -->
-            <div class="single-slider" style="background-image:url('img/slider2.png')">
+            <div class="single-slider" style="background-image:url('public/img/slider2.png')">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-7">
@@ -155,7 +155,7 @@
             </div>
             <!-- End Single Slider -->
             <!-- Start Single Slider -->
-            <div class="single-slider" style="background-image:url('img/slider1.png')">
+            <div class="single-slider" style="background-image:url('public/img/slider1.png')">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-7">
@@ -173,7 +173,7 @@
             </div>
             <!-- Start End Slider -->
             <!-- Start Single Slider -->
-            <div class="single-slider" style="background-image:url('img/slider3.png')">
+            <div class="single-slider" style="background-image:url('public/img/slider3.png')">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-7">
