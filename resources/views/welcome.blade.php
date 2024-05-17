@@ -17,7 +17,7 @@
     <link rel="icon" href="img/favicon.png">
 
     <!-- Google Fonts -->
-    <!-- <link href="https://fonts.googleapis.com/css?family=Poppins:200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap" rel="stylesheet"> -->
+    <link href="https://fonts.googleapis.com/css?family=Poppins:200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap" rel="stylesheet">
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="public/css/bootstrap.min.css">
@@ -985,45 +985,45 @@
     <!--/ End Footer Area -->
 
     <!-- jquery Min JS -->
-    <script src="js/jquery.min.js"></script>
+    <script src="public/js/jquery.min.js"></script>
     <!-- jquery Migrate JS -->
-    <script src="js/jquery-migrate-3.0.0.js"></script>
+    <script src="public/js/jquery-migrate-3.0.0.js"></script>
     <!-- jquery Ui JS -->
-    <script src="js/jquery-ui.min.js"></script>
+    <script src="public/js/jquery-ui.min.js"></script>
     <!-- Easing JS -->
-    <script src="js/easing.js"></script>
+    <script src="public/js/easing.js"></script>
     <!-- Color JS -->
-    <script src="js/colors.js"></script>
+    <script src="public/js/colors.js"></script>
     <!-- Popper JS -->
-    <script src="js/popper.min.js"></script>
+    <script src="public/js/popper.min.js"></script>
     <!-- Bootstrap Datepicker JS -->
-    <script src="js/bootstrap-datepicker.js"></script>
+    <script src="public/js/bootstrap-datepicker.js"></script>
     <!-- Jquery Nav JS -->
-    <script src="js/jquery.nav.js"></script>
+    <script src="public/js/jquery.nav.js"></script>
     <!-- Slicknav JS -->
-    <script src="js/slicknav.min.js"></script>
+    <script src="public/js/slicknav.min.js"></script>
     <!-- ScrollUp JS -->
-    <script src="js/jquery.scrollUp.min.js"></script>
+    <script src="public/js/jquery.scrollUp.min.js"></script>
     <!-- Niceselect JS -->
-    <script src="js/niceselect.js"></script>
+    <script src="public/js/niceselect.js"></script>
     <!-- Tilt Jquery JS -->
-    <script src="js/tilt.jquery.min.js"></script>
+    <script src="public/js/tilt.jquery.min.js"></script>
     <!-- Owl Carousel JS -->
-    <script src="js/owl-carousel.js"></script>
+    <script src="public/js/owl-carousel.js"></script>
     <!-- counterup JS -->
-    <script src="js/jquery.counterup.min.js"></script>
+    <script src="public/js/jquery.counterup.min.js"></script>
     <!-- Steller JS -->
-    <script src="js/steller.js"></script>
+    <script src="public/js/steller.js"></script>
     <!-- Wow JS -->
-    <script src="js/wow.min.js"></script>
+    <script src="public/js/wow.min.js"></script>
     <!-- Magnific Popup JS -->
-    <script src="js/jquery.magnific-popup.min.js"></script>
+    <script src="public/js/jquery.magnific-popup.min.js"></script>
     <!-- Counter Up CDN JS -->
-    <script src="http://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script>
     <!-- Bootstrap JS -->
-    <script src="js/bootstrap.min.js"></script>
+    <script src="public/js/bootstrap.min.js"></script>
     <!-- Main JS -->
-    <script src="js/main.js"></script>
+    <script src="public/js/main.js"></script>
 </body>
 
 </html>
